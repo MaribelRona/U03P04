@@ -11,5 +11,8 @@
     
         <nombre>Lampara</nombre>
         <precio>89</precio>
+        
+        <nombre>silla</nombre>
+        <precio>30</precio>
       </comedor>
 </mueble>
